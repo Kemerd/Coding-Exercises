@@ -6,7 +6,7 @@
 other. 
 
 Comments: I saw this, and instead of making something for two strings, I wanted to make it
-work for any infinite amount of strings.
+work for any infinite amount of strings, without using built in sort functions. 
 
 Sorry for the messy comments. For these CtCI problems I thought I'd walk through them step by step.
 
